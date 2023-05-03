@@ -1,9 +1,9 @@
 {
   "name": "helioslauncher",
-  "version": "2.0.4",
-  "productName": "Helios Launcher",
+  "version": "0.1.0",
+  "productName": "WaxxTeam Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modded by Alex RAAG",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
